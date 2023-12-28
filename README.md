@@ -9,6 +9,19 @@ This is a simple calculator application written in Java using Swing. It provides
 - Clear button to reset the calculator.
 - Responsive layout with buttons for numbers and operations.
 
+## Live Demo
+
+You can try out the live demo of the calculator by following these steps:
+
+1. Ensure you have Java installed on your machine.
+2. Download the [Calculator.jar](link-to-your-releases/Calculator.jar) file from the releases.
+3. Open a terminal or command prompt and navigate to the directory where you downloaded `Calculator.jar`.
+4. Run the following command to execute the JAR file:
+
+   ```bash
+   java -jar Calculator.jar
+
+
 ## How to Use
 
 1. **Number Buttons:** Click on the number buttons (0-9) to input numbers.
