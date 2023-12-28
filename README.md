@@ -14,7 +14,7 @@ This is a simple calculator application written in Java using Swing. It provides
 You can try out the live demo of the calculator by following these steps:
 
 1. Ensure you have Java installed on your machine.
-2. Download the [Calculator.jar](link-to-your-releases/Calculator.jar) file from the releases.
+2. Download the [Calculator.jar](src/main/java/org/example/Calculator.jar) file from the releases.
 3. Open a terminal or command prompt and navigate to the directory where you downloaded `Calculator.jar`.
 4. Run the following command to execute the JAR file:
 
